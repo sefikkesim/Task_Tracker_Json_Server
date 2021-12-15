@@ -1,0 +1,16 @@
+.main-nav {
+    text-align: center;
+    margin: 40px auto;
+  }
+  .main-nav a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 10px;
+    color: red;
+    font-size: 20px;
+
+  }
+  .active-style {
+    border-bottom: 3px solid red;
+    padding-bottom: 4px;
+  }

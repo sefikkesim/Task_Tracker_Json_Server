@@ -1,0 +1,34 @@
+{
+  "exercises": [
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 7581
+    },
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 7582
+    },
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 7583
+    },
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 7584
+    },
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 7585
+    }
+  ]
+}

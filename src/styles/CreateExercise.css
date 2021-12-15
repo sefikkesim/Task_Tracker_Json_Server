@@ -1,0 +1,33 @@
+form  {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  label {
+    display: block;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 20px 0 10px 0
+  }
+  input {
+    padding: 10px;
+    width: 400px;
+    max-width: 100%;
+    box-sizing: border-box;
+    border: 1px solid var(--grey);
+  }
+
+  form button {
+    display: block;
+    margin: 20px auto;
+    background:red;
+    color: black;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+    border: 2px solid transparent;
+    cursor: pointer;
+  }
